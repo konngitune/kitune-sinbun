@@ -10,5 +10,9 @@ body{
  background-color:39AF80;
 }
 p.main{text-align:left;
+       font-family: 'DotGothic16', sans-serif;
       }
+h2{
+   font-family: 'Yusei Magic', sans-serif;
+}
 
