@@ -9,6 +9,11 @@ ul > li{text-align:center;
 ol > li{
    text-align:center;
 }
+ul{text-align:center;
+  }
+ol{
+   text-align:cneter;
+}
 body{
  background-color:39AF80;
 }
