@@ -4,15 +4,8 @@ h1{text-align:center;
 p{text-align:center;
   color:FFAF97;
  }
-ul > li{text-align:center;
-  }
-ol > li{
+dic.li{
    text-align:center;
-}
-ul{text-align:center;
-  }
-ol{
-   text-align:cneter;
 }
 body{
  background-color:39AF80;
