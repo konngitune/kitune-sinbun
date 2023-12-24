@@ -6,6 +6,9 @@ p{text-align:center;
  }
 ul > li{text-align:center;
   }
+ol > li{
+   text-align:center;
+}
 body{
  background-color:39AF80;
 }
