@@ -1,7 +1,7 @@
+
 body{
-background-color:FFF784;}
-body{
-background-color:FFF784;}
+background-color:FFF784;
+}
 h1{text-align:left;
 color:#FFD800;
 font-family: 'Yusei Magic', sans-serif;}
@@ -57,3 +57,39 @@ border-style: solid;
 border-color:black;
 border-width: 3px;
 background-color:white;}
+
+.none{
+  font-family: "Noto Sans JP", sans-serif;
+color:red;
+text-align:center;
+font-size:200px;
+}
+.super{
+  font-family: "Noto Sans JP", sans-serif;
+color:red;
+text-align:center;
+font-size:400px;
+}
+.main{
+  font-family: "Noto Sans JP", sans-serif;
+color:#EE7F10;
+}
+
+.center{
+position:relative;
+left:450px;
+}
+
+.star{
+position:relative;
+left:625px;
+padding: 0px;
+margin:0px;
+width:15px;
+}
+
+.normal{
+  font-family: "Noto Sans JP", sans-serif;
+color:black;
+}
+
